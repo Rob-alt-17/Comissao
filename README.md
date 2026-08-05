@@ -14,7 +14,15 @@ Este projeto calcula automaticamente a comissão de um vendedor de acordo com as
 
 O salário final é calculado como: **Salário Base + Comissão**
 
-### Demonstração
+## ✨ Funcionalidades
+
+- Cálculo automático da comissão de vendas
+- Aplicação das regras de negócio conforme a faixa de vendas
+- Cálculo do salário final
+- Interface simples via terminal
+
+
+### 📸 Demonstração da execução
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2c4bf5b1-417d-49fd-b8f5-3a3ba8e98489"
@@ -67,7 +75,9 @@ Teste o programa com os seguintes cenários:
 
 ## 🔄 Conversão de Linguagens
 
-O código foi convertido de **Portugol/Visualg** para **Python** para facilitar testes e integração com CI/CD.
+Este projeto foi desenvolvido originalmente em **Portugol (Visualg)** como exercício de lógica de programação e posteriormente convertido para **Python**, preservando a mesma regra de negócio para facilitar testes e evolução do código.
+
+A regra de negócio foi mantida durante a conversão, alterando apenas a sintaxe da linguagem.
 
 ### Linguagem Original (Portugol)
 ```algol
