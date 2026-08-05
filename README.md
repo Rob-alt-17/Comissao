@@ -1,6 +1,6 @@
 # Calculadora de Comissão sobre Vendas 💰
 
-Um programa simples para calcular a comissão de vendas baseada no valor total de vendas e adicionar ao salário base.
+Um programa simples que calcula a comissão de vendas com base no valor total vendido e retorna o salário final do vendedor.
 
 ## 📋 Descrição
 
@@ -47,19 +47,19 @@ Você será solicitado a inserir:
 
 ### Exemplo de uso:
 
-```
+```text
 Digite o salário-base: 5000
 Digite o valor de vendas: 80000
+
 Comissão: 1600.00
 Salário final: 6600.00
-
 ```
 
 ## 📁 Arquivos do Projeto
 
 - `comissao.py` - Versão em Python (recomendada para testes)
 - `comissao.alg` - Versão em Portugol/Visualg (algoritmo original)
-- `README.md` - Este arquivo
+- `README.md`- Documentação do projeto
 
 ## 📊 Casos de Teste
 
@@ -94,6 +94,13 @@ elif valor_venda <= 100000:
 
 ## 💻 Tecnologias
 
-- **Linguagem**: Python 3
-- **Tipo**: Script console
-- **Dependências**: Nenhuma (usa apenas bibliotecas padrão)
+## 💻 Tecnologias
+
+- Python 3
+- Portugol (Visualg)
+- Script de console
+- Bibliotecas padrão do Python
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins de estudo e prática de lógica de programação e Python.
