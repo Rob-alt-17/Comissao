@@ -32,11 +32,13 @@ Você será solicitado a inserir:
 ### Exemplo de uso:
 
 ```
-Digite o salário-base: 1000
-Digite o valor de vendas: 75000
-Comissão: 1500.00
-Salário final: 2500.00
+Digite o salário-base: 5000
+Digite o valor de vendas: 80000
+Comissão: 1600.00
+Salário final: 6600.00
+
 ```
+<img width="869" height="211" alt="image" src="https://github.com/user-attachments/assets/a4194aa5-2d37-44a0-bbdc-dd67da27f8ac" />
 
 ## 📁 Arquivos do Projeto
 
