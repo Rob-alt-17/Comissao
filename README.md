@@ -94,8 +94,6 @@ elif valor_venda <= 100000:
 
 ## 💻 Tecnologias
 
-## 💻 Tecnologias
-
 - Python 3
 - Portugol (Visualg)
 - Script de console
