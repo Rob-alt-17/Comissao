@@ -17,7 +17,8 @@ O salário final é calculado como: **Salário Base + Comissão**
 ### Demonstração
 
 <p align="center">
-  <img src="..." alt="Demonstração da execução do programa" width="700">
+  <<img width="344" height="199" alt="image" src="https://github.com/user-attachments/assets/2c4bf5b1-417d-49fd-b8f5-3a3ba8e98489" />
+ alt="Demonstração da execução do programa" width="700">
 </p>
 
 ## 🚀 Como Usar
