@@ -14,6 +14,12 @@ Este projeto calcula automaticamente a comissão de um vendedor de acordo com as
 
 O salário final é calculado como: **Salário Base + Comissão**
 
+### Demonstração
+
+<p align="center">
+  <img src="..." alt="Demonstração da execução do programa" width="700">
+</p>
+
 ## 🚀 Como Usar
 
 ### Pré-requisitos
@@ -38,7 +44,6 @@ Comissão: 1600.00
 Salário final: 6600.00
 
 ```
-<img width="869" height="211" alt="image" src="https://github.com/user-attachments/assets/a4194aa5-2d37-44a0-bbdc-dd67da27f8ac" />
 
 ## 📁 Arquivos do Projeto
 
